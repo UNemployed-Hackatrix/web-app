@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 
 import "../style.css";
 import fondo from "./images/Progress_Arx.png";
@@ -24,24 +24,24 @@ class Progress extends React.Component {
                 <div class="box-icon">
                   <i class="lnr lnr-rocket" />
                 </div>
-                <h4>Fast &amp; Powerful</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Fácil acceso</h4>
+                <p>Llegamos a culquier comprador o agricultor en todo el país conectado a internet.</p>
               </div>
               <div class="space-60" />
               <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
                 <div class="box-icon">
                   <i class="lnr lnr-paperclip" />
                 </div>
-                <h4>Easily Editable</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Precios justos</h4>
+                <p>Al evitar intermediarios accedes a alimentos más baratos.</p>
               </div>
               <div class="space-60" />
               <div class="service-box wow fadeInUp" data-wow-delay="0.6s">
                 <div class="box-icon">
                   <i class="lnr lnr-cloud-download" />
                 </div>
-                <h4>Cloud Storage</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Comodidad</h4>
+                <p>Instala la app, regístrate y listo, programa tu compra.</p>
               </div>
               <div class="space-60" />
             </div>
@@ -55,24 +55,24 @@ class Progress extends React.Component {
                 <div class="box-icon">
                   <i class="lnr lnr-clock" />
                 </div>
-                <h4>Easy Notifications</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Agricultura local</h4>
+                <p>Apoya a los agricultores locales y el comercio nacional.</p>
               </div>
               <div class="space-60" />
               <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
                 <div class="box-icon">
                   <i class="lnr lnr-laptop-phone" />
                 </div>
-                <h4>Completamente Responsive</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Tecnologia de punta</h4>
+                <p>Sistema de posición global, actualización de productos en tiempo real.</p>
               </div>
               <div class="space-60" />
               <div class="service-box wow fadeInUp" data-wow-delay="0.6s">
                 <div class="box-icon">
                   <i class="lnr lnr-cog" />
                 </div>
-                <h4>Editable Layout</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h4>Seguridad</h4>
+                <p>Minuto a minuto su ubicación, conoce de donde viene tu alimento de la mejor calidad.</p>
               </div>
               <div class="space-60" />
             </div>
