@@ -21,14 +21,8 @@ class Features extends React.Component {
                 <div className="space-20" />
                 <div className="desc wow fadeInUp" data-wow-delay="0.6s">
                   <p>
-<<<<<<< HEAD
-                    Arx cuenta con innumerables salas de chat para conocer a
-                    personas de todas las partes del mundo, y quien sabe puede
-                    que una de seas se convierta en el amor de tu vida.
-=======
-                    Mercampo llegara a los principales fruvers con los mejores precios de manera efectiva
-		    y con los mejores precios.
->>>>>>> 368c1b0e0c0748b6a349dbddc807e7c1eed9a5e3
+                    Mercampo llegara a los principales fruvers con los mejores
+                    precios de manera efectiva y con los mejores precios.
                   </p>
                 </div>
                 <div className="space-50" />
