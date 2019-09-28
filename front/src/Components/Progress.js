@@ -47,7 +47,7 @@ class Progress extends React.Component {
             </div>
             <div class="hidden-xs hidden-sm col-md-4">
               <figure class="mobile-image">
-                <img src={fondo} alt="Feature" />
+                <img src="/" alt="Feature" />
               </figure>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
