@@ -38,8 +38,8 @@ class Home extends React.Component {
               <div className="space-20" />
               <div className="desc wow fadeInUp" data-wow-delay="0.6s">
                 <p>
-                  Toma la mejor decisión y unete a la familia colombiana de mercampo, los mejores precios
-		  del campo al hogar.
+                  Toma la mejor decisión y unete a la familia colombiana de
+                  mercampo, los mejores precios del campo al hogar.
                 </p>
               </div>
               <div className="space-20" />
@@ -49,7 +49,7 @@ class Home extends React.Component {
                 className="bttn-white wow fadeInUp"
                 data-wow-delay="0.8s"
               >
-                Obtener más Información
+                Registrate
               </Link>
             </div>
           </div>
