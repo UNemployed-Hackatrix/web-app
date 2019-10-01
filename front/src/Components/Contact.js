@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 
 import "../style.css";
 
@@ -23,7 +23,7 @@ class Contact extends React.Component {
                   <span className="lnr lnr-map-marker" />
                 </div>
                 <p>
-                  Calle 160 #73-47, Bogotá, Colombia<br />
+                  Mercadito XD, Bogotá, Colombia<br />
                 </p>
               </div>
               <div className="space-30 hidden visible-xs" />

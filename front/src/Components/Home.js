@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 import { Link } from "react-router-dom";
 
 import "../style.css";
@@ -33,13 +33,13 @@ class Home extends React.Component {
             <div className="col-xs-12 col-md-7">
               <div className="space-80 hidden-xs" />
               <h1 className="wow fadeInUp" data-wow-delay="0.4s">
-                Speed Dating Fácil
+                MERCAMPO
               </h1>
               <div className="space-20" />
               <div className="desc wow fadeInUp" data-wow-delay="0.6s">
                 <p>
-                  Se el primero en participar en un app de Speed Dating, comoda,
-                  sin complicaciones y hecha para conocer gente de manera fácil.
+                  Toma la mejor decisión y unete a la familia colombiana de
+                  mercampo, los mejores precios del campo al hogar.
                 </p>
               </div>
               <div className="space-20" />
@@ -49,7 +49,7 @@ class Home extends React.Component {
                 className="bttn-white wow fadeInUp"
                 data-wow-delay="0.8s"
               >
-                Obtener más Información
+                Registrate
               </Link>
             </div>
           </div>

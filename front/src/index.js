@@ -25,8 +25,15 @@ import "./main.css";
 import First from "./pages/First";
 import Second from "./pages/Second";
 import App from "./Components/App";
+import Firebase, { FirebaseContext } from "./Components/Firebase";
 
 const container = document.getElementById("app");
 
 // ReactDOM.render(__qué__, __dónde__);
-ReactDOM.render(<App />, container);
+
+ReactDOM.render(
+  <FirebaseContext.Provider value={new Firebase()}>
+    <App />
+  </FirebaseContext.Provider>,
+  container
+);

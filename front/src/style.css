@@ -295,7 +295,7 @@ input:-webkit-autofill:focus {
 }
 
 .purple-color {
-  color: #ab2695;
+  color: green;
 }
 
 .white-color {
@@ -452,7 +452,7 @@ input:-webkit-autofill:focus {
   width: 100%;
   background: url("images/fondo.jpg") no-repeat scroll center bottom / cover;
   padding-top: 26vh;
-  color: #ffffff;
+  color: black;
   margin-bottom: 100px;
 }
 
